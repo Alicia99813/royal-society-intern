@@ -1,8 +1,8 @@
 {
     "manifests": {
 	    },
-	       "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00509": {
-		    "provider": "The Univeristy of Manchester"
+	       "https://Alicia99813.github.io/Temple/manifests/templeIIIF.json": {
+		    "provider": "Meishu"
 	    },
 	      "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-15369": {
 		    "provider": "The Univeristy of Manchester"
@@ -13,7 +13,7 @@
     "windows": [
 	    {
 	        "id": "a",
-                "manifestId": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-LATIN-00509",
+                "manifestId": "https://Alicia99813.github.io/Temple/manifests/templeIIIF.json",
                 "canvasIndex": 0
             },
 	    	{

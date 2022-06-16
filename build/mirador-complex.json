@@ -1,29 +1,29 @@
 {
     "manifests": {
 	    },
-	       "https://Alicia99813.github.io/Temple/manifests/templeIIIF.json": {
-		    "provider": "Meishu"
+	       "https://alicia99813.github.io/Placement-Practice/manifests/Sumerian_clay_tablet.json": {
+		    "provider": "The Univeristy of Cambridge"
 	    },
-	      "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-15369": {
-		    "provider": "The Univeristy of Manchester"
+	      "https://alicia99813.github.io/Placement-Practice/manifests/Aramaic_ostracon.json": {
+		    "provider": "The Univeristy of Cambridge"
 	    },
-	       "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00070-MANCHESTER-00021": {
-		    "provider": "The Univeristy of Manchester"
+	       "https://alicia99813.github.io/Placement-Practice/manifests/Woodenmummylabel.json": {
+		    "provider": "The Univeristy of Cambridge"
     },
     "windows": [
 	    {
 	        "id": "a",
-                "manifestId": "https://Alicia99813.github.io/Temple/manifests/templeIIIF.json",
+                "manifestId": "https://alicia99813.github.io/Placement-Practice/manifests/Sumerian_clay_tablet.json",
                 "canvasIndex": 0
             },
 	    	{
                 "id": "b",
-                "manifestId": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-R-15369",
+                "manifestId": "https://alicia99813.github.io/Placement-Practice/manifests/Aramaic_ostracon.json",
                 "canvasIndex": 0
             },
 	      {
                 "id": "c",
-           	"manifestId": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00070-MANCHESTER-00021",
+           	"manifestId": "https://alicia99813.github.io/Placement-Practice/manifests/Woodenmummylabel.json",
                 "canvasIndex": 0
             }
     ],
